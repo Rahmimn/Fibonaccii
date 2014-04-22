@@ -16,7 +16,7 @@ public class Fibonacci {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int x=4;
+        int x=7;
         int tot=0;
         int a,b;
         //System.out.println("jumlah deret : ");
